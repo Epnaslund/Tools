@@ -52,7 +52,7 @@ function invoke-twilioRESTCall
 	$msg
 	
 	# Example usage
-	# invoke-twilioRESTCall -message <your_sms_message_body> -toTel <your_to_number> -AccountSid <your_account_sid> -authToken <your_auth_token> -fromTel <your_from_number>
+	# invoke-twilioRESTCall -message <your_message> -toTel <your_to_number> -AccountSid <your_account_sid> -authToken <your_auth_token> -fromTel <your_from_number>
 }
 
 
